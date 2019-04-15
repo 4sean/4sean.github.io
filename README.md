@@ -15,7 +15,7 @@
 * [第十三部分服务器基础系列] -->
 
 
-[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/你不知道的HTML.md
+[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/html/index.md
 [2]: https://github.com/MarsPen/-notes-summary/blob/master/css/index.md
 [3]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/index.md
 [4]: https://github.com/MarsPen/-notes-summary/blob/master/node/index.md
