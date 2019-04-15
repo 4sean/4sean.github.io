@@ -10,9 +10,8 @@
 
 
 
-[1]: https://github.com/MarsPen/-notes-summary/blob/master/css/base-concepts.md
-[2]: https://github.com/MarsPen/-notes-summary/blob/master/css/base-layout.md
-[3]: https://github.com/MarsPen/-notes-summary/blob/master/css/css-layered.md
-[4]: https://github.com/MarsPen/-notes-summary/blob/master/css/css-animation.md
-[5]: https://github.com/MarsPen/-notes-summary/blob/master/css/css-preprocessor.md
-
+[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/css/base-concepts.md
+[2]: https://github.com/4sean/4sean.github.io/tree/master/pages/css/base-layout.md
+[3]: https://github.com/4sean/4sean.github.io/tree/master/pages/css/css-layered.md
+[4]: https://github.com/4sean/4sean.github.io/tree/master/pages/css/css-animation.md
+[5]: https://github.com/4sean/4sean.github.io/tree/master/pages/css/css-preprocessor.md
