@@ -7,13 +7,13 @@
 
 ## php基础
 
-* [php基础系列之-语法、变量、数据类型][1]
-* [php基础系列之-常用方法][2]
+* [php基础系列之-语法、变量、作用域][1]
+<!-- * [php基础系列之-常用方法][2] -->
 * [php基础系列之-面向对象][3]
 * [php基础系列之-常见关键字][4]
 
 
-[1]: https://github.com/MarsPen/-notes-summary/blob/master/php/base.md
-[2]: https://github.com/MarsPen/-notes-summary/blob/master/php/method.md
-[3]: https://github.com/MarsPen/-notes-summary/blob/master/php/oop.md
-[4]: https://github.com/MarsPen/-notes-summary/blob/master/php/keyword.md
+[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/base.md
+[2]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/base.md
+[3]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/base.md
+[4]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/base.md
