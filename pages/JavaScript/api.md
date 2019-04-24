@@ -398,5 +398,5 @@ arr.includes(searchElement, fromIndex)<br/>
 ```
 
 ## JS基础列系列目录
-<a href='https://github.com/MarsPen/-notes-summary/blob/master/javascript/index.md'>JS基础系列</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/index.md'>JS基础系列</a>
 

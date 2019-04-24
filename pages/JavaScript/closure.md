@@ -114,7 +114,7 @@
        * 由于多个函数共享一个父级，当父级有变量更改时，所有子函数受影响
 
 ## 下一篇文章
-<a href='https://github.com/MarsPen/-notes-summary/blob/master/javascript/this.md'>JS基础系列之-this</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/this.md'>JS基础系列之-this</a>
 
 ## JS基础列系列目录
-<a href='https://github.com/MarsPen/-notes-summary/blob/master/javascript/index.md'>JS基础系列</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/index.md'>JS基础系列</a>

@@ -1,6 +1,6 @@
 # 第三部分javascript知识
  
-<!-- <image src="https://github.com/MarsPen/-notes-summary/blob/master/images/javaScript.png" width="550"></image> -->
+<!-- <image src="https://github.com/4sean/4sean.github.io/tree/master/pages/images/javaScript.png" width="550"></image> -->
 
 ## JS基础系列
 * [JS基础系列之-基本数据类型][1]
@@ -29,10 +29,10 @@
 
 
 
-[1]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/type.md
-[2]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/voao.md
-[3]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/closure.md
-[4]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/this.md
-[5]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/prototype.md
-[6]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/inheritance.md
-[7]: https://github.com/MarsPen/-notes-summary/blob/master/javascript/api.md
+[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/type.md
+[2]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/voao.md
+[3]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/closure.md
+[4]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/this.md
+[5]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/prototype.md
+[6]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/inheritance.md
+[7]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/api.md

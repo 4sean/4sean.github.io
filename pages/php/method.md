@@ -145,7 +145,7 @@ urldecode(str)
 
 
 ## 下一篇文章
-<a href='https://github.com/MarsPen/-notes-summary/blob/master/php/oop.md'>php基础系列之-面向对象</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/php/oop.md'>php基础系列之-面向对象</a>
 
 ## linux基础命令系列目录
-<a href='https://github.com/MarsPen/-notes-summary/blob/master/php/index.md'>php基础系列</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/php/index.md'>php基础系列</a>
