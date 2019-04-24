@@ -29,10 +29,10 @@
 
 
 
-[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/type.md
-[2]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/voao.md
-[3]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/closure.md
-[4]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/this.md
-[5]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/prototype.md
-[6]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/inheritance.md
-[7]: https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/api.md
+[1]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/type.md
+[2]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/voao.md
+[3]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/closure.md
+[4]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/this.md
+[5]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/prototype.md
+[6]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/inheritance.md
+[7]: https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/api.md

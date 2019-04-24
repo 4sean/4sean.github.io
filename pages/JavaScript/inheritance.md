@@ -199,10 +199,10 @@
     es6继承是使用关键字先创建父类的实例对象this，最后在子类class中修改this
 
 ## 下一篇文章
-<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/api.md'>JS基础系列之-操作数组或对象的API方法集合</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/api.md'>JS基础系列之-操作数组或对象的API方法集合</a>
 
 ## JS基础列系列目录
-<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/index.md'>JS基础系列</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/index.md'>JS基础系列</a>
 
 
 

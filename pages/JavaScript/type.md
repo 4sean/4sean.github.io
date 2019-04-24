@@ -120,8 +120,8 @@
     ```
 
 ## 下一篇文章
-<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/voao.md'>JS基础系列之-变量提升与函数提升</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/voao.md'>JS基础系列之-变量提升与函数提升</a>
 
 ## JS基础列系列目录
-<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/index.md'>JS基础系列</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/index.md'>JS基础系列</a>
 

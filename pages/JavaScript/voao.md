@@ -69,7 +69,7 @@
    ```
 
 ## 下一篇文章
-<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/closure.md'>JS基础系列之-闭包</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/closure.md'>JS基础系列之-闭包</a>
 
 ## JS基础列系列目录
-<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javascript/index.md'>JS基础系列</a>
+<a href='https://github.com/4sean/4sean.github.io/tree/master/pages/javaScript/index.md'>JS基础系列</a>
