@@ -3,15 +3,14 @@
 - [一、HTML][1]
 - [二、CSS ][2]
 - [三、JavaScript ][3]
-- [四、JavaScript ][4]
-- [五、ES6 风格与精粹]
-- [六、php 基础系列][4]
-- [七、PHP 与 MySQL]
-- [八、前端性能优化系列]
-- [九、设计模式系列]
-- [十、linux 系列][10]
-- [十一、mySql 基础系列]
-- [十二、服务器基础系列]
+- [四、node ][4]
+- [六、php ][4]
+- [七、 MySQL]
+- [八、前端性能优化]
+- [九、设计模式]
+- [十、linux ][10]
+- [十一、算法]
+- [十二、前端框架]
 
 [1]: https://github.com/4sean/4sean.github.io/tree/master/pages/html/index.md
 [2]: https://github.com/4sean/4sean.github.io/tree/master/pages/css/index.md
