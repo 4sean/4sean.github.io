@@ -1,6 +1,6 @@
 # 第三部分javascript知识
  
-<image src="https://github.com/MarsPen/-notes-summary/blob/master/images/javaScript.png" width="550"></image>
+<!-- <image src="https://github.com/MarsPen/-notes-summary/blob/master/images/javaScript.png" width="550"></image> -->
 
 ## JS基础系列
 * [JS基础系列之-基本数据类型][1]

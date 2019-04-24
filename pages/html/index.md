@@ -1,4 +1,4 @@
-![这是html基础思维导图](https://github.com/MarsPen/-notes-summary/blob/master/images/html.png "这是html基础思维导图")
+<!-- ![这是html基础思维导图](https://github.com/MarsPen/-notes-summary/blob/master/images/html.png "这是html基础思维导图") -->
 
 ## 你不知道的HTML
 ### 一、开发工具

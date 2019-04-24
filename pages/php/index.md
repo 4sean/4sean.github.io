@@ -2,7 +2,7 @@
 
  作为一名合格的前端开发工程师，掌握基础的php语言能够在大多数开发时候了解后台的开发特性。帮助我们更加快速的定位问题。防止经常性由于后台的懒惰造成大量的业务、数据逻辑处理丢到前端<br/>
 
- <image src="https://github.com/MarsPen/-notes-summary/blob/master/images/php.png" width="550"></image>
+ <!-- <image src="https://github.com/MarsPen/-notes-summary/blob/master/images/php.png" width="550"></image> -->
 
 
 ## php基础

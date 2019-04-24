@@ -23,7 +23,7 @@
   <div class="main">右侧</div>
 </div>
 ```
-![自适应两栏布局](https://github.com/MarsPen/-notes-summary/blob/master/images/自适应两栏布局.gif "自适应两栏布局")
+<!-- ![自适应两栏布局](https://github.com/MarsPen/-notes-summary/blob/master/images/自适应两栏布局.gif "自适应两栏布局") -->
 ### 2.圣杯布局和双飞翼布局
 1. 解决什么问题：两边定宽，中间自适应的三栏布局，中间栏放在文档流前面以优先渲染
 2. 相同点：三栏全float浮动，左右两栏加上负margin让中间栏div并排，形成三栏
@@ -103,7 +103,7 @@
 ```
 
 6. 效果图
-![三栏布局](https://github.com/MarsPen/-notes-summary/blob/master/images/圣杯布局.gif "三栏布局")
+<!-- ![三栏布局](https://github.com/MarsPen/-notes-summary/blob/master/images/圣杯布局.gif "三栏布局") -->
 
 ### 3.flex弹性盒子布局
 1. 定义：Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型提供最大的灵活性。

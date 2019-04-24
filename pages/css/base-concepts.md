@@ -21,7 +21,7 @@
   <!--html-->
   <div class="box"></div>
   ```
-  ![css盒子模型](https://github.com/MarsPen/-notes-summary/blob/master/images/css盒子模型.png "css盒子模型")
+  <!-- ![css盒子模型](https://github.com/MarsPen/-notes-summary/blob/master/images/css盒子模型.png "css盒子模型") -->
 ### 3. BFC IFC GFC FFC
 1. BFC
   - 定义（Block fomatting context）：块级格式化上下文(每一个元素盒子从上向下排列)
@@ -136,7 +136,7 @@
       <!--html-->
       <span class="break">这是一个行内盒子这是一个行内盒子这是一个行内盒子</span>
     ```
-    ![css-IFC](https://github.com/MarsPen/-notes-summary/blob/master/images/css-IFC.jpg "css-IFC")
+    <!-- ![css-IFC](https://github.com/MarsPen/-notes-summary/blob/master/images/css-IFC.jpg "css-IFC") -->
   - 根据作用第1条,设置span为inline-block,则会在box上产生ifc,在box上设置text-align使span元素水平居中。
     ```
       /****css****/

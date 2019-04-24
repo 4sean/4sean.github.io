@@ -57,8 +57,8 @@
 
       当创建`Person`函数时，js会自动为该函数创建`prototype`属性，这个属性指向函数的原型对象，函数的原型对象（`Person.prototype`）会自动获取一个`constructor`属性指向关联的Person。当我们通过new关键字调用时，js就会创建该构造函数的实例`person1`或`person2`，此时我们就可以通过`prototype`来存储要共享的属性和方法<br/>
 
-      下面我们通过图例来说明我们上面的文字</br>
-      <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/Person.png'></image><br/>
+      <!-- 下面我们通过图例来说明我们上面的文字</br>
+      <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/Person.png'></image><br/> -->
       这里我们注意虽然person1和person2这两个个实例都不包含属性和方法，但是我们可以通过查找对象属性来实现调用person1.sayName()<br/>
       此时我们来确定两个实例对象返回的原型指针是否一样(**Object.getPrototypeOf 此方法可以获取对象的原型**)
       ```
@@ -93,8 +93,8 @@
      object = new Object('zhangsan',20)
      object.sayName()
      ```
-     我们通样以图例的形式来说明Object的__proto__,prototype,constructor<br/>
-     <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/Object.png'></image><br/>
+     <!-- 我们通样以图例的形式来说明Object的__proto__,prototype,constructor<br/>
+     <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/Object.png'></image><br/> -->
      通过以上图例我们得出结论`Object.prototype.__proto__ === null`
 
      这里面扩展一下null和undefined区别<br/>
@@ -123,13 +123,13 @@
      f.sayName ()
     
      ```
-     我们同样以图例的形式来说明Function的__proto__,prototype,constructor<br/>
-     <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/Function.png'></image><br/>
+     <!-- 我们同样以图例的形式来说明Function的__proto__,prototype,constructor<br/>
+     <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/Function.png'></image><br/> -->
      通过以上图例我们得出结论`Object.prototype === Function.prototype.__proto__`
 
   6. **接下来我们进行最后一步将上面Function，Object，Person链接起来**<br/>
-     此时我们同样通过图例的形式将上面整合起来。来看看整个链路是什么样子。<br/>
-     <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/prototype.png'></image><br/>
+     <!-- 此时我们同样通过图例的形式将上面整合起来。来看看整个链路是什么样子。<br/>
+     <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/prototype.png'></image><br/> -->
      通过以上图例我们可以观察到其实js原型链就是由相互关联的链条组成，查找属性或者方法的过程就是图中红色链条的过程，如果找到则终止否则直到返回null<br/>
      `person1` > `person1.__proto__` > `Person.prototype` > `Person.prototype.__proto__` > `Object.prototype` > `Object.prototype.__proto__` > `null`<br/>
 

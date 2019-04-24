@@ -29,7 +29,7 @@
     console.log(a); // 2
     console.log(b); // 1
     ```
-    <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/javascript-stack.png'></image>
+    <!-- <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/javascript-stack.png'></image> -->
 2. **引用数据类型**
   - 概念：引用类型的值是保存在堆内存（Heap）中的对象（Object）
   - 种类：统称为Object，细分有：Object，Array，Function，Data，RegExp等
@@ -68,7 +68,7 @@
     age:28
   }
   ```
-  <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/javascript-stack1.png'></image>
+  <!-- <image src='https://github.com/MarsPen/-notes-summary/blob/master/images/javascript-stack1.png'></image> -->
 3. **类型检测**
   - typeof：经常检查变量是不是基本数据类型
     ```
