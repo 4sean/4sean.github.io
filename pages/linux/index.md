@@ -2,7 +2,7 @@
 
  作为一名合格的前端开发工程师，掌握一些基础的linux命令是有必要的。以便于我们在服务器上操作。如果有精力的话强烈推荐《鸟哥的Linux私房菜》写的非常详细，易懂。<br/>
 
- <!-- <image src="https://github.com/MarsPen/-notes-summary/blob/master/images/linux.png" width="550"></image> -->
+ <!-- <image src="https://github.com/4sean/4sean.github.io/blob/master/pages/images/linux.png" width="550"></image> -->
 
 
 ## linux基础命令系列
@@ -30,17 +30,17 @@
 * [linux专题系列之-配置git多个ssh][15]
 
 [1]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/instructions.md
-[2]: https://github.com/MarsPen/-notes-summary/blob/master/linux/system.md
-[3]: https://github.com/MarsPen/-notes-summary/blob/master/linux/compression.md
-[4]: https://github.com/MarsPen/-notes-summary/blob/master/linux/package.md
-[5]: https://github.com/MarsPen/-notes-summary/blob/master/linux/backup.md
-[6]: https://github.com/MarsPen/-notes-summary/blob/master/linux/shutdown.md
-[7]: https://github.com/MarsPen/-notes-summary/blob/master/linux/user.md
-[8]: https://github.com/MarsPen/-notes-summary/blob/master/linux/fileauth.md
-[9]: https://github.com/MarsPen/-notes-summary/blob/master/linux/vim.md
-[10]: https://github.com/MarsPen/-notes-summary/blob/master/linux/bash.md
-[11]: https://github.com/MarsPen/-notes-summary/blob/master/linux/variable.md
-[12]: https://github.com/MarsPen/-notes-summary/blob/master/linux/alias.md
-[13]: https://github.com/MarsPen/-notes-summary/blob/master/linux/operating.md
-[14]: https://github.com/MarsPen/-notes-summary/blob/master/linux/redirect.md
-[15]: https://github.com/MarsPen/-notes-summary/blob/master/linux/git.md
+[2]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/system.md
+[3]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/compression.md
+[4]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/package.md
+[5]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/backup.md
+[6]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/shutdown.md
+[7]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/user.md
+[8]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/fileauth.md
+[9]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/vim.md
+[10]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/bash.md
+[11]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/variable.md
+[12]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/alias.md
+[13]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/operating.md
+[14]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/redirect.md
+[15]: https://github.com/4sean/4sean.github.io/blob/master/pages/linux/git.md
