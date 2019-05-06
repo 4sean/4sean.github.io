@@ -29,7 +29,7 @@
 ## linux专题系列
 * [linux专题系列之-配置git多个ssh][15]
 
-[1]: https://github.com/4sean/4sean.github.io/tree/master/page/linux/instructions.md
+[1]: https://github.com/4sean/4sean.github.io/blob/master/page/linux/instructions.md
 [2]: https://github.com/MarsPen/-notes-summary/blob/master/linux/system.md
 [3]: https://github.com/MarsPen/-notes-summary/blob/master/linux/compression.md
 [4]: https://github.com/MarsPen/-notes-summary/blob/master/linux/package.md
