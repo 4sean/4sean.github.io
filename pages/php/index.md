@@ -10,8 +10,10 @@
 * [php基础系列之-语法、变量、作用域][1]
 * [php基础系列之-常见关键字][2]
 * [php基础系列之-面向对象][3]
+* [php基础系列之-连接MySQL][4]
 
 
 [1]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/base.md
 [2]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/method.md
 [3]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/oop.md
+[4]: https://github.com/4sean/4sean.github.io/tree/master/pages/php/PHP+MySQL.md
