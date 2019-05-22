@@ -26,6 +26,9 @@
 * [JS专题系列之-深浅拷贝][17] *未完成*
 * [JS专题系列之-节流与防抖动][18] *未完成*
 
+##直播课
+* [你不知道的JS][19]
+
 
 
 
@@ -36,3 +39,5 @@
 [5]: https://github.com/4sean/4sean.github.io/tree/master/pages/JavaScript/prototype.md
 [6]: https://github.com/4sean/4sean.github.io/tree/master/pages/JavaScript/inheritance.md
 [7]: https://github.com/4sean/4sean.github.io/tree/master/pages/JavaScript/api.md
+
+[19]: https://github.com/4sean/4sean.github.io/tree/master/pages/JavaScript/inLive/初级题.md
